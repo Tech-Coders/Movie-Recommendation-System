@@ -1,5 +1,12 @@
 # Movie-recommendation-system
 
-The Machine Learning Code you can find in the following files...
-check.py
-tage.py
+In this we have used Content and Collaborative filtering techniques of the Clustering Methods of Machine Learning in order to get ...
+
+Similar Movies based on the Generes, Tags and Ratings mentioned in the .csv files located in the moverec/options/ directory 
+
+
+Movie-recommendation-system/moverec/options
+|
+|---check.py
+|---tage.py
+|---gen.py
