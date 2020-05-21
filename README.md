@@ -6,7 +6,6 @@ Similar Movies based on the Generes, Tags and Ratings mentioned in the .csv file
 
 
 Movie-recommendation-system/moverec/options
-|
 |---check.py
 |---tage.py
 |---gen.py
